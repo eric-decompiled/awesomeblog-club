@@ -374,6 +374,17 @@
             ],
             "title": "Christine Dodrill",
             "website": "https://christine.website/blog"
+        },
+        {
+            "author": "Eric Richardson",
+            "description": "Musings around the intersection of people and machines",
+            "tags": [
+                "crypto",
+                "peer-to-peer",
+                "work"
+            ],
+            "title": "Decompiled",
+            "website": "https://decompiled.dev"
         }
     ]
 }
